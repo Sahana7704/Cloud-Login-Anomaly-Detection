@@ -1,0 +1,2 @@
+# Cloud-Login-Anomaly-Detection
+This project helps to identify anomaly activities such as multiple login attempts with the help of ML where the features like IP Address, location, user credentials, login attempts are extracted and the model is trained accordingly. A simple user interface was created using streamlit for the detection of the activities. Dataset:(https://www.kaggle.com/datasets/dasgroup/rba-dataset/data)
